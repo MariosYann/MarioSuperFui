@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarioSuperFui
+- 👋 Hi, I’m @MariosYann
 - 👀 I’m interested in ... Python Projects or Projects in general backend, frontend doesn't matter!!!
 - 🌱 I’m currently learning ... Python , Data Science and CyberSecurity!
 - 💞️ I’m looking to collaborate on ... any projects that are in those fields or not... :)
