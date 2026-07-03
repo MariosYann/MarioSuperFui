@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Marios+Yannoulelis..;Back+End+Engineer;Python+Developer..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=2500&color=E22FE4&center=true&vCenter=true&width=750&lines=Backend+Engineer;Python+Developer;Building+Production-Ready+Applications;Django+•+FastAPI+•+PostgreSQL+•+Docker" />
 </p>
-
-
+<h1 align="center">Hi 👋 I'm Marios Yannoulelis</h1>
 I am an experienced **Backend Engineer / Python Developer** passionate about building scalable, high-performance web applications, optimizing backend architectures, and deploying robust cloud solutions. 
 
 After transitioning from building personal projects to working on real-world production systems, I focus on writing clean, maintainable, and well-tested code that drives business value.
@@ -65,21 +64,20 @@ After transitioning from building personal projects to working on real-world pro
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MariosYann&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MariosYann&theme=radical&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariosYann&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Badges & Activity
-
+# 🏆 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=radical" alt="Marios Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariosYann&theme=radical"/>
 </p>
 
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MariosYann&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariosYann&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariosYann&theme=radical&utcOffset=2"/>
 </p>
 
 ### 📫 Connect with me:
