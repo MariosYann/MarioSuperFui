@@ -1,4 +1,7 @@
-# Hi there, I'm Mario! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Marios+Yannoulelis..;Back+End+Engineer;Python+Developer..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+</p>
+
 
 I am an experienced **Backend Engineer / Python Developer** passionate about building scalable, high-performance web applications, optimizing backend architectures, and deploying robust cloud solutions. 
 
@@ -18,6 +21,35 @@ After transitioning from building personal projects to working on real-world pro
 
 ---
 
+# 🖥️ Technical Skills:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=asyncio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+---
+
 ### 🚀 What I Do
 * 🌐 **API Development:** Designing and implementing secure, well-documented, and high-performance RESTful APIs and microservices.
 * ⚡ **Asynchronous Programming:** Leveraging `asyncio` for non-blocking I/O operations and high-concurrency execution flow.
@@ -29,14 +61,26 @@ After transitioning from building personal projects to working on real-world pro
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=github_dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariosYann&theme=github_dark" alt="Overall Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MariosYann&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MariosYann&theme=radical&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariosYann&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Badges & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=radical" alt="Marios Profile Summary" />
+</p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MariosYann&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 ### 📫 Connect with me:
 * 💼 **LinkedIn:** [linkedin.com/in/marios-yannoulelis](https://gr.linkedin.com/in/marios-yannoulelis)
