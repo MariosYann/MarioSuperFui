@@ -11,6 +11,7 @@ After transitioning from building personal projects to working on real-world pro
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & Frameworks** | Python, Django, FastAPI, Flask |
+| **Asynchronous & Concurrency** | Asyncio, Celery, Redis, Cron Jobs |
 | **Databases** | PostgreSQL |
 | **DevOps & Infrastructure** | Docker, AWS (Amazon Web Services) |
 | **Tools & Version Control** | Git, GitHub, Linux |
@@ -19,15 +20,21 @@ After transitioning from building personal projects to working on real-world pro
 
 ### 🚀 What I Do
 * 🌐 **API Development:** Designing and implementing secure, well-documented, and high-performance RESTful APIs and microservices.
+* ⚡ **Asynchronous Programming:** Leveraging `asyncio` for non-blocking I/O operations and high-concurrency execution flow.
+* ⚙️ **Distributed Task Queues:** Architecting background processing systems using Celery and Redis to handle heavy, offloaded computations asynchronously.
+* ⏰ **Task Scheduling:** Automating recurring processes, data syncs, and system maintenance using Cron jobs and Celery Beat.
 * 🗄️ **Database Optimization:** Managing and optimizing complex relational database schemas and queries in PostgreSQL.
 * 🐳 **Containerization & CI/CD:** Packaging applications with Docker to ensure environment parity from local development to production.
 * ☁️ **Cloud Architecture:** Deploying, monitoring, and scaling backend services leveraging the AWS ecosystem.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Languages
 
-![Mario's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariosYann&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=github_dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariosYann&theme=github_dark" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
