@@ -29,11 +29,11 @@ After transitioning from building personal projects to working on real-world pro
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=github_dark" alt="GitHub Stats" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariosYann&theme=github_dark" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariosYann&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariosYann&theme=github_dark" alt="Overall Stats" width="48%" />
 </p>
 
 ---
