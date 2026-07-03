@@ -25,10 +25,9 @@ After transitioning from building personal projects to working on real-world pro
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariosYann&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariosYann&layout=compact&theme=radial&hide_border=true)
+![Mario's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariosYann&theme=dark&hide_border=true)
 
 ---
 
